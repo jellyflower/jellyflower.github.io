@@ -41,3 +41,15 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+
+$solarized: light;
+
+$signature-color: #a70aeb;
+$title-color: darken($signature-color, 25);
+$subtitle-color: lighten($signature-color, 10);
+$link-color: $signature-color;
+$nav-bg: desaturate(lighten($signature-color, 75), 5);
+$sidebar-bg: desaturate(lighten($signature-color, 40), 5);
+$footer-bg: $nav-bg;
+$main-bg: desaturate(lighten($signature-color, 50), 5);
+$page-bg: desaturate(lighten($signature-color, 45), 5);
