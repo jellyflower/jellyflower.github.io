@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Utorrent | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/utorrent/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Turn Off μTorrent Ads (or Switch to a Better BitTorrent Client)]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client/"/>
+    <updated>2012-11-10T16:53:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client</id>
+    <content type="html"><![CDATA[<p>The latest release of μTorrent features in-client ads (<a href="http://thenextweb.com/insider/2012/11/09/utorrent-3-22-released-officially-supports-windows-8-and-now-displays-ads-in-client/">here</a>). The once concise and no-nonsense BitTorrent client is now taking a path to bloatware.</p>
+
+<p>To turn off the ads, go to Preferences, and then Advanced, and set the following variables to false:</p>
+
+<ul>
+<li>offers.left_rail_offer_enabled</li>
+<li>offers.sponsored_torrent_offer_enabled</li>
+</ul>
+
+
+<p>Click OK and restart the program. The ads should be gone now.</p>
+
+<p>I actually switched to another client called <a href="http://www.tixati.com/">Tixati</a>. Currently it works well for me, and it has no nonsense.</p>
+]]></content>
+  </entry>
+  
+</feed>

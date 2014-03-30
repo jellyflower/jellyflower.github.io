@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Qaac | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/qaac/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Qaac: The New Preferred Way to Encode AAC]]></title>
+    <link href="http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/"/>
+    <updated>2013-06-18T23:13:00-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac</id>
+    <content type="html"><![CDATA[<p>It has long been widely believed that <a href="http://www.nero.com/enu/company/about-nero/nero-aac-codec.php">Nero AAC Codec</a> generally produces AAC of the best quality. However, recently several studies indicate that Apple encoder already surpasses Nero AAC Codec in terms of quality.</p>
+
+<p>The actual encoding code is shipped with Apple Application Support as a form of a library. Apple doesn’t provide a more convenient way to invoke the encoder than using iTunes. Fortunately, there is an open source project called <a href="https://sites.google.com/site/qaacpage/">qaac</a> fulfilling that role.</p>
+
+<p>To produce AAC exactly equivalent to the so-called iTunes Plus quality, use the following command:</p>
+
+<pre><code>qaac -v256 -q2 INPUT
+</code></pre>
+
+<p>I’m currently encoding in qaac’s True VBR mode to prepare music for my iPhone. The command is like this:</p>
+
+<pre><code>qaac -V63 -q2 INPUT
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>

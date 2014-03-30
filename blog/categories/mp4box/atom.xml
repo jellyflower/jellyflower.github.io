@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mp4box | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/mp4box/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Use MP4Box Without Installing GPAC]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac/"/>
+    <updated>2012-03-31T19:42:00-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac</id>
+    <content type="html"><![CDATA[<p><a href="http://gpac.wp.mines-telecom.fr/mp4box/">MP4Box</a> is an essential tool to manipulate ISO base media file formats, such as MP4, 3GP, etc. Currently it is better than FFmpeg. Later on it is packed in GPAC, a multimedia framework of which the other parts don&rsquo;t appear to be that useful.</p>
+
+<p>To use MP4Box without installing the entire GPAC framework, you can extract relevant files from the installer using a extractor such as 7-Zip:</p>
+
+<ul>
+<li>js32.dll</li>
+<li>libeay32.dll</li>
+<li>libgpac.dll</li>
+<li>MP4Box.exe</li>
+<li>ssleay32.dll</li>
+</ul>
+
+
+<p>And add the directory to your path. Then you are good to go.</p>
+]]></content>
+  </entry>
+  
+</feed>

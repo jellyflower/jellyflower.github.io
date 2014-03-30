@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Fate Stay Night | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/fate-stay-night/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[《Fate/stay Night（命运/永夜）》无剧透完美攻略——全选项解析、全结局、全老虎道场]]></title>
+    <link href="http://jellyflower.github.io/blog/2011/07/31/fate-slash-stay-night-walkthrough/"/>
+    <updated>2011-07-31T16:11:00-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2011/07/31/fate-slash-stay-night-walkthrough</id>
+    <content type="html"><![CDATA[<p><strong>水竹叶原创，谢绝任何形式的转载。</strong></p>
+
+<h2>角色名字和日文读法</h2>
+
+<ul>
+<li>Shirō Emiya (衛宮 士郎 Emiya Shirō)</li>
+<li>Saber (セイバー Seibā)</li>
+<li>Rin Tōsaka (遠坂 凛 Tōsaka Rin)</li>
+<li>Archer (アーチャー Āchā)</li>
+<li>Illyasviel von Einzbern (イリヤスフィール・フォン・アインツベルン Iriyasufīru fon Aintsuberun)</li>
+<li>Berserker (バーサーカー Bāsākā)</li>
+<li>Sakura Matō (間桐 桜 Matō Sakura)</li>
+<li>Shinji Matō (間桐 慎二 Matō Shinji)</li>
+<li>Rider (ライダー Raidā)</li>
+<li>Kirei Kotomine (言峰 綺礼 Kotomine Kirei)</li>
+<li>Lancer (ランサー Ransā)</li>
+<li>Kiritsugu Emiya (衛宮 切嗣 Emiya Kiritsugu)</li>
+<li>Taiga Fujimura (藤村 大河 Fujimura Taiga)</li>
+<li>Gilgamesh (ギルガメッシュ Girugamesshu)</li>
+<li>Sōichirō Kuzuki (葛木 宗一郎 Kuzuki Sōichirō)</li>
+<li>Caster (キャスター Kyasutā)</li>
+<li>Assassin (アサシン Asashin)</li>
+<li>Leysritt (リーゼリット Rīzeritto) and Sella (セラ Sera)</li>
+<li>Ayako Mitsuzuri (美綴 綾子 Mitsuzuri Ayako)</li>
+<li>Issei Ryūdō (柳洞 一成 Ryūdō Issei)</li>
+<li>Zōken Matō (間桐 臓硯 Matō Zōken)</li>
+<li>True Assassin (真アサシン Shin Asashin)</li>
+</ul>
+
+
+<h2>Fate 路线（Saber 路线）</h2>
+
+<h3>第 1 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +1</li>
+<li>道场解释完成（否则会在后面解释）</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>如果 Unlimited Blade Works 路线已通关，则 Heaven&rsquo;s Feel 路线点数 +1，否则无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 2 日</h3>
+
+<p>只有 Sakura 好感 ≥1 并且 Heaven&rsquo;s Feel 路线点数 ≥1，才会出现这个选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Heaven&rsquo;s Feel 路线点数 +1，Shirō 左手背出现淤青</li>
+</ol>
+
+
+<p>只有 Heaven&rsquo;s Feel 路线点数 ≥2，才会出现这个选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Heaven&rsquo;s Feel 路线点数 +1</li>
+</ol>
+
+
+<h3>第 3 日</h3>
+
+<p>只有 Fate 路线已通关，并且 Heaven&rsquo;s Feel 路线点数 ≤2，才会出现这个选择。</p>
+
+<ol>
+<li>进入 Unlimited Blade Works 路线</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 2</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时如果 Heaven&rsquo;s Feel 路线点数 ≥3，则进入 Heaven&rsquo;s Feel 路线，否则无变化。</p>
+
+<h3>第 4 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 16</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>Saber 好感 +1</li>
+</ol>
+
+
+<h3>第 5 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>Rin 好感 -1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 6 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 3</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 7 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +2</li>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 8 日</h3>
+
+<p>重复一天前的问题，已选过的选项会被去掉。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>Illya 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 9 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 4</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +2</li>
+<li>无变化</li>
+<li>老虎道场 5</li>
+</ol>
+
+
+<h3>第 10 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 6</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Saber 好感 +2</li>
+</ol>
+
+
+<h3>第 11 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 7</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 8</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 12 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>真是无聊的一天……</p>
+
+<h3>第 13 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 9</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 9</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 10</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 14 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 11</li>
+</ol>
+
+
+<h3>第 15 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 12</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时如果 Saber 好感度 ≤5，则进入老虎道场 13。（禽兽玩家才会出现这种情况。）</p>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 14</li>
+<li>老虎道场 14</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 14</li>
+<li>老虎道场 14</li>
+<li>无变化</li>
+</ol>
+
+
+<p>Fate 路线通关。</p>
+
+<p>出现结局“梦之延续”。（泪目……）</p>
+
+<h2>Unlimited Blade Works 路线（Rin 路线）</h2>
+
+<h3>第 3 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>给出另外一个选择，选 1 进入老虎道场 15，选 2 失去自愈能力（对剧情没有重要影响）</li>
+<li>给出另外一个选择，选 1 失去自愈能力，选 2 则 Saber 和 Rin 好感均 +1</li>
+<li>老虎道场 15</li>
+</ol>
+
+
+<h3>第 4 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 5 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 16</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 -1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 17</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 6 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 7 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +2</li>
+</ol>
+
+
+<h3>第 8 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 18</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+<li>Saber 好感 +1</li>
+</ol>
+
+
+<h3>第 9 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 19</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 10 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 11 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>出现另一个选择，但选择任何选项都没有变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 20</li>
+</ol>
+
+
+<h3>第 12 日</h3>
+
+<p>此时如果 Rin 好感 ≤2，则最终进入老虎道场 21。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 21</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 22</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 13 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>最终进入老虎道场 23</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+<li>老虎道场 23</li>
+</ol>
+
+
+<h3>第 14 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 15 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +2</li>
+<li>Saber 好感 +1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<h3>第 16 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 24</li>
+<li>无变化</li>
+</ol>
+
+
+<p>Unlimited Blade Works 路线通关。</p>
+
+<p>此时如果 Saber 好感 ≥4 并且 Rin 好感 ≤8，则出现结局“阳光灿烂的日子”，否则出现结局“辉煌的岁月”。</p>
+
+<h2>Heaven&rsquo;s Feel 路线（Sakura 路线）</h2>
+
+<h3>第 4 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 5 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+<li>跳过下一个选择</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Illya 对话次数 +1，Illya 好感 +1</li>
+<li>Illya 对话次数 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Sakura 好感 +2</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +2</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 6 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Illya 对话次数 +1</li>
+<li>Sakura 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>Sakura 好感 +5</li>
+</ol>
+
+
+<h3>第 7 日</h3>
+
+<p>只有 Illya 对话次数 ≥2，才会出现以下的选择。</p>
+
+<ol>
+<li>Illya 好感 +3</li>
+<li>Illya 好感 +3</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时，如果 Sakura 好感 ≤8，则进入老虎道场 25。</p>
+
+<h3>第 8 日</h3>
+
+<p>此时，如果 Illya 好感 ≤2，则进入老虎道场 26。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 27</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 9 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 28</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 31</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 和 Sakura 好感均 +1</li>
+<li>老虎道场 29</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 30</li>
+<li>无变化</li>
+</ol>
+
+
+<p>真是纠结的一天啊！</p>
+
+<h3>第 10 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +1</li>
+<li>无变化</li>
+<li>Sakura 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 32</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 33</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>Illya 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 11 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Sakura 好感 +1</li>
+<li>Sakura 好感 +1</li>
+</ol>
+
+
+<h3>第 12 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 35</li>
+</ol>
+
+
+<h3>第 13 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 34</li>
+</ol>
+
+
+<p>此时如果 Sakura 好感 ≤10，则进入老虎道场 35。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 35</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 14 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Illya 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 15 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 36</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 37</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 38</li>
+<li>老虎道场 38</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 38</li>
+<li>老虎道场 38</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 16 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 39</li>
+<li>Shirō 达到极限</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 40</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时如果 Shirō 达到极限，或 Illya 好感 ≤3，则出现结局“樱之梦”（并不算 Heaven&rsquo;s Feel 路线通关）。</p>
+
+<p>此时如果已出现过结局“春之归来”，才会出现下面的选择，否则 Heaven&rsquo;s Feel 路线通关，出现结局“春之归来”。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>出现结局“樱之梦”（并不算 Heaven&rsquo;s Feel 路线通关）</li>
+<li>Heaven&rsquo;s Feel 路线通关，出现结局“春之归来”</li>
+</ol>
+
+
+<h2>Last Episode 路线（Saber 最终路线）</h2>
+
+<p>在 Fate 路线、Unlimited Blade Works 路线和 Heaven&rsquo;s Feel 路线通关后，出现此路线，结局为“梦之终点”。</p>
+
+<p><strong>水竹叶原创，谢绝任何形式的转载。</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[守护]]></title>
+    <link href="http://jellyflower.github.io/blog/2011/07/21/guardian/"/>
+    <updated>2011-07-21T03:04:00-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2011/07/21/guardian</id>
+    <content type="html"><![CDATA[<p>看完了 <em>Fate/stay night</em> 的 Fate 线，已是深夜，去躺床上。一闭上眼睛，眼前就是少女躺在树林里面，面带微笑死去的情景，然后胸口就是不禁一阵痛。睁开眼睛来，视线一片模糊，什么东西从眸子里面滚落出来，沿着两颊滑落下去，留下两道凉飕飕的轨迹。于是，再也不能控制自己……</p>
+
+<p>悲剧，并不是在结局突发的悲惨的事情。那种没来由的惨祸，并不能给人留下深刻的印象。所谓悲剧，其实是一开始就注定了的，是在开头就打下了伏笔的。有果必有因。虽然很早就知道，不管能不能赢得圣杯战争，阿尔托莉雅都是会死的。因为，她根本就不属于这个时代，她终究要回到古代，归还佩剑 Excalibur，在一个安静的树林里面，不为人知的死去，完成亚瑟王的宿命。可是，哪怕希望非常的渺茫，我仍然希冀着，能够让阿尔托莉雅留在现世，过一个没有战乱的，本应属于她那样刚成年的少女的，幸福的第二生。为了那美丽的面庞，为了那奉献了一生却没有得到丝毫回报和理解的纯洁的心，任何的努力都是值得的。</p>
+
+<p>我们都是幸运儿，安稳的活在这个世上，虽也有痛苦，但终究是快乐和平和常伴。可你知道吗？又有多少的生命，从出生开始，就注定承受着痛苦，在痛苦中匆匆的告别这个世界。在他们的印象中，这个世界又是怎样的呢？跟地狱难道有任何的区别吗？</p>
+
+<p>这个世界不公平。</p>
+
+<p>而每个人又只能活一次。</p>
+
+<p>我突然发觉，我一直引以为傲的东西，其实根本就是不值一提的。轻松考上名牌大学，轻松拿着全额奖学金去美国名校留学，这都是为了我自己，我根本就没有为别人做出过什么。那么，跟我不存在这个社会上有什么区别呢？</p>
+
+<p>原来，前二十几年，我一直可耻的自私的活着。让父母做所有的事情，不把别人的困难放在心上，对朋友言不由衷，喜欢一个女生却玩着暧昧不愿意负责。</p>
+
+<p>我就是行尸走肉，只是为了追求个人成功，机械的完成学习和工作任务。</p>
+
+<p>我的内心，根本就没有一个，我愿意守护的东西。</p>
+
+<p>我想到了我逐渐老去的父母。我想到，父母会陪伴我几十年，然后在某个瞬间，突然离开我。从此，世界上就不再会有这两个人了。</p>
+
+<p>如果不趁着父母还在，多做点什么，多跟父母相处一下，那么以后，只怕连思念的资本都不会有。</p>
+
+<p>桜自愿去士郎家帮忙，每天早起去他家准备早饭，晚上放学后准备晚饭，然后才回自己的家。因为，她看到士郎是个孤儿。</p>
+
+<p>我不禁想到，我就读的美国学校的一对教授老夫妇，经常对我问寒问暖，给些生活用品我。这都起于，有一次碰巧与老夫妇一起进餐，老妇人坐在我的旁边，问我在美国有没有亲戚朋友。我说没有。老妇人抓着我的手，说，我能感觉到你的孤独，我，不希望你觉得孤独。那一瞬间，我的内心触动了……从此以后，他们就经常主动给我各种帮助。</p>
+
+<p>若我一直留在中国，我可能会不相信故事中，桜长年累月自愿付出照顾士郎的情节。可我现在绝对相信，在健康的社会里面，人们不会对周围人的困难和苦楚视而不见的。</p>
+
+<p>我们都错了，我们不能这样，只顾着自己学习、工作、挣钱，把别人的不幸归因于社会。</p>
+
+<p>眼前，又浮现出阿尔托莉雅嘴角含着微笑死去的图景。亚瑟王征战一生，为了守护自己的子民，放弃了自己的感情。得不到下属的理解，最后还被自己的人叛乱杀害，自己的国家再次陷入混乱。即便这样，阿尔托莉雅还是觉得这是自己的错误，她希望得到圣杯，凭借圣杯的力量，让自己回到最初，让出王位，让一个更合适的人来当国王。这一切，都是为了让自己的国家能够安定。知道圣杯是骗局之后，她毫不犹豫的击碎圣杯，回到古代，接受自己悲惨的命运。</p>
+
+<p>即使，士郎爱她。</p>
+
+<p>即使，她也爱士郎。</p>
+
+<p>每个人都应该选择一些自己要守护的东西。能够守护好自己的家庭，是一个尽责的人。能够守护好自己的亲友，是一个无私的值得信赖的人。而亚瑟王阿尔托莉雅能够守护好一个国家，即使一直含冤也不后悔。</p>
+
+<p>她是英雄。</p>
+
+<p>就这样一直躺着，天蒙蒙亮了。</p>
+
+<p><strong>从现在开始，我不再是一个只为自己活着的人。我，守护。我们，同在。</strong></p>
+]]></content>
+  </entry>
+  
+</feed>

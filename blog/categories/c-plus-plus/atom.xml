@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: C++ | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/c-plus-plus/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Build Boost C++ Libraries on Windows Using MinGW]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw/"/>
+    <updated>2012-09-01T17:36:00-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw</id>
+    <content type="html"><![CDATA[<p>First, download the source code <a href="http://www.boost.org/users/download/">here</a>. Also download <a href="http://zlib.net/">zlib</a> and <a href="http://www.bzip.org/">bzip2</a>. Extract them to separate directories and open a command prompt in the directory of Boost. Run</p>
+
+<pre><code>bootstrap gcc
+b2 -s ZLIB_SOURCE=ZLIB_SOURCE -s BZIP2_SOURCE=BZIP2_SOURCE variant=debug,release link=shared,static threading=single,multi address-model=32,64 toolset=gcc
+</code></pre>
+
+<p>That will build all variants. Of course, you can pick and only build what you need.</p>
+]]></content>
+  </entry>
+  
+</feed>

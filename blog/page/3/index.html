@@ -1,0 +1,1579 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Place Where Wishes Come True</title>
+  <meta name="author" content="Jellyflower">
+
+  
+  <meta name="description" content="Of course the most straightforward way is to output PCM wrapped in WAV format. Things will go pretty well with pcm_s16le, pcm_s24le and pcm_s32le, &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://jellyflower.github.io/blog/page/3">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="http://feeds.feedburner.com/jellyflower" rel="alternate" title="The Place Where Wishes Come True" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href='//fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-33630185-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">The Place Where Wishes Come True</a></h1>
+  
+    <h2>Jellyflower’s Blog</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.feedburner.com/jellyflower" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:jellyflower.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/03/08/have-ffmpeg-output-audio/">Have FFmpeg Output Audio</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-08T19:05:00-05:00" pubdate data-updated="true">Mar 8<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Of course the most straightforward way is to output PCM wrapped in WAV format. Things will go pretty well with pcm_s16le, pcm_s24le and pcm_s32le, but not with the unsigned, which I don&rsquo;t know why.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/03/08/downmixing-5-dot-1-surround-sound-to-stereo/">Downmixing 5.1 Surround Sound to Stereo</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-08T18:53:00-05:00" pubdate data-updated="true">Mar 8<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>By far I think using FFmpeg is still the best way to do it. A command like this will finish the job:</p>
+
+<pre><code>ffmpeg -i INPUT -vn -ac 2 -acodec CODEC OUTPUT
+</code></pre>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/01/25/why-was-kotomi-named-kotomi/">论琴美为什么叫琴美——探究一之濑琴美的理论物理学背景和音乐背景</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-25T08:43:00-05:00" pubdate data-updated="true">Jan 25<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>一之濑琴美是视觉小说《Clannad》中的一名女性角色。很多人不清楚的是，琴美这个角色具有浓厚的物理背景，而这正是琴美独特魅力的由来。（被拖死……</p>
+
+<p><img class="left" src="/img/FGKT02E.png"></p>
+
+<p>文中提到，琴美小时候问过父亲，自己为什么要叫琴美。父亲回答说，宇宙是由看不见的“竖琴”组成的。这个就是当前理论物理学大热的<strong>弦理论</strong>。弦理论认为宇宙是由看不见的不断振动的弦组成。琴美的父亲当然不会跟年幼的琴美讲高深的弦理论，所以便以“竖琴”取而代之。这就是琴美名字的由来。高中阶段就懂弦理论的琴美，拥有<strong>理论物理博士学力</strong>。</p>
+
+<p>弦理论是当前最有希望完成<strong>大统一理论</strong>的理论。在大统一理论中，物理学家试图用一个统一的理论解释所有自然现象。这个贪心的理论将会取代所有其他的理论。可以说，完成了大统一理论，理论物理学家就全部蛋疼了。琴美双亲的研究成果，正是大统一理论。然而，该成果随琴美双亲埋葬在了大海中，这导致目前的理论物理学家仍然需要为之奋斗！（摔……</p>
+
+<p>琴美的主题曲名叫“Étude pour les petites supercordes”，这是法语，翻译过来就是“为可爱的超弦理论学习”。其中<strong>超弦理论</strong>是弦理论的一种，这更加印证了琴美名字的物理渊源。使用法语命名主题曲，当然是为了表现琴美的书呆气啦！</p>
+
+<p><img class="right" src="/img/FGKT03A2.png"></p>
+
+<p>另外，琴美使用小提琴折磨众人也是合理的情形。小提琴是一种学习曲线特别陡峭的乐器，用简单的语言来说就是入门很难。初学者演奏小提琴发出的声音往往会很难听，对他人来说就是灾难。相比之下，另一个比较流行的乐器钢琴入门就比较容易。当然，不管什么乐器，要学好都是很难的。</p>
+
+<p><em>以上就是一之濑琴美的物理背景，众位琴美的粉丝，是不是准备好了投身理论物理学呢？（别打我，我不是学理论物理的……</em></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/07/31/fate-slash-stay-night-walkthrough/">《Fate/stay Night（命运/永夜）》无剧透完美攻略——全选项解析、全结局、全老虎道场</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-07-31T16:11:00-04:00" pubdate data-updated="true">Jul 31<span>st</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><strong>水竹叶原创，谢绝任何形式的转载。</strong></p>
+
+<h2>角色名字和日文读法</h2>
+
+<ul>
+<li>Shirō Emiya (衛宮 士郎 Emiya Shirō)</li>
+<li>Saber (セイバー Seibā)</li>
+<li>Rin Tōsaka (遠坂 凛 Tōsaka Rin)</li>
+<li>Archer (アーチャー Āchā)</li>
+<li>Illyasviel von Einzbern (イリヤスフィール・フォン・アインツベルン Iriyasufīru fon Aintsuberun)</li>
+<li>Berserker (バーサーカー Bāsākā)</li>
+<li>Sakura Matō (間桐 桜 Matō Sakura)</li>
+<li>Shinji Matō (間桐 慎二 Matō Shinji)</li>
+<li>Rider (ライダー Raidā)</li>
+<li>Kirei Kotomine (言峰 綺礼 Kotomine Kirei)</li>
+<li>Lancer (ランサー Ransā)</li>
+<li>Kiritsugu Emiya (衛宮 切嗣 Emiya Kiritsugu)</li>
+<li>Taiga Fujimura (藤村 大河 Fujimura Taiga)</li>
+<li>Gilgamesh (ギルガメッシュ Girugamesshu)</li>
+<li>Sōichirō Kuzuki (葛木 宗一郎 Kuzuki Sōichirō)</li>
+<li>Caster (キャスター Kyasutā)</li>
+<li>Assassin (アサシン Asashin)</li>
+<li>Leysritt (リーゼリット Rīzeritto) and Sella (セラ Sera)</li>
+<li>Ayako Mitsuzuri (美綴 綾子 Mitsuzuri Ayako)</li>
+<li>Issei Ryūdō (柳洞 一成 Ryūdō Issei)</li>
+<li>Zōken Matō (間桐 臓硯 Matō Zōken)</li>
+<li>True Assassin (真アサシン Shin Asashin)</li>
+</ul>
+
+
+<h2>Fate 路线（Saber 路线）</h2>
+
+<h3>第 1 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +1</li>
+<li>道场解释完成（否则会在后面解释）</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>如果 Unlimited Blade Works 路线已通关，则 Heaven&rsquo;s Feel 路线点数 +1，否则无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 2 日</h3>
+
+<p>只有 Sakura 好感 ≥1 并且 Heaven&rsquo;s Feel 路线点数 ≥1，才会出现这个选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Heaven&rsquo;s Feel 路线点数 +1，Shirō 左手背出现淤青</li>
+</ol>
+
+
+<p>只有 Heaven&rsquo;s Feel 路线点数 ≥2，才会出现这个选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Heaven&rsquo;s Feel 路线点数 +1</li>
+</ol>
+
+
+<h3>第 3 日</h3>
+
+<p>只有 Fate 路线已通关，并且 Heaven&rsquo;s Feel 路线点数 ≤2，才会出现这个选择。</p>
+
+<ol>
+<li>进入 Unlimited Blade Works 路线</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 2</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时如果 Heaven&rsquo;s Feel 路线点数 ≥3，则进入 Heaven&rsquo;s Feel 路线，否则无变化。</p>
+
+<h3>第 4 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 16</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>Saber 好感 +1</li>
+</ol>
+
+
+<h3>第 5 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>Rin 好感 -1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 6 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 3</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 7 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +2</li>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 8 日</h3>
+
+<p>重复一天前的问题，已选过的选项会被去掉。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>Illya 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 9 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 4</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +2</li>
+<li>无变化</li>
+<li>老虎道场 5</li>
+</ol>
+
+
+<h3>第 10 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 6</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Saber 好感 +2</li>
+</ol>
+
+
+<h3>第 11 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 7</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 8</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 12 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>真是无聊的一天……</p>
+
+<h3>第 13 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 9</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 9</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 10</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 14 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 11</li>
+</ol>
+
+
+<h3>第 15 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 12</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时如果 Saber 好感度 ≤5，则进入老虎道场 13。（禽兽玩家才会出现这种情况。）</p>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 14</li>
+<li>老虎道场 14</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 14</li>
+<li>老虎道场 14</li>
+<li>无变化</li>
+</ol>
+
+
+<p>Fate 路线通关。</p>
+
+<p>出现结局“梦之延续”。（泪目……）</p>
+
+<h2>Unlimited Blade Works 路线（Rin 路线）</h2>
+
+<h3>第 3 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>给出另外一个选择，选 1 进入老虎道场 15，选 2 失去自愈能力（对剧情没有重要影响）</li>
+<li>给出另外一个选择，选 1 失去自愈能力，选 2 则 Saber 和 Rin 好感均 +1</li>
+<li>老虎道场 15</li>
+</ol>
+
+
+<h3>第 4 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 5 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 16</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 -1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 17</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 6 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 7 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +2</li>
+</ol>
+
+
+<h3>第 8 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 18</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+<li>Saber 好感 +1</li>
+</ol>
+
+
+<h3>第 9 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 19</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 10 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 11 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>出现另一个选择，但选择任何选项都没有变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 20</li>
+</ol>
+
+
+<h3>第 12 日</h3>
+
+<p>此时如果 Rin 好感 ≤2，则最终进入老虎道场 21。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 21</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 22</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 13 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>最终进入老虎道场 23</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+<li>老虎道场 23</li>
+</ol>
+
+
+<h3>第 14 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 15 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +2</li>
+<li>Saber 好感 +1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<h3>第 16 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 24</li>
+<li>无变化</li>
+</ol>
+
+
+<p>Unlimited Blade Works 路线通关。</p>
+
+<p>此时如果 Saber 好感 ≥4 并且 Rin 好感 ≤8，则出现结局“阳光灿烂的日子”，否则出现结局“辉煌的岁月”。</p>
+
+<h2>Heaven&rsquo;s Feel 路线（Sakura 路线）</h2>
+
+<h3>第 4 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Saber 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 5 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+<li>跳过下一个选择</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Illya 对话次数 +1，Illya 好感 +1</li>
+<li>Illya 对话次数 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Sakura 好感 +2</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +2</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 6 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Illya 对话次数 +1</li>
+<li>Sakura 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>Sakura 好感 +5</li>
+</ol>
+
+
+<h3>第 7 日</h3>
+
+<p>只有 Illya 对话次数 ≥2，才会出现以下的选择。</p>
+
+<ol>
+<li>Illya 好感 +3</li>
+<li>Illya 好感 +3</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时，如果 Sakura 好感 ≤8，则进入老虎道场 25。</p>
+
+<h3>第 8 日</h3>
+
+<p>此时，如果 Illya 好感 ≤2，则进入老虎道场 26。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 27</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 9 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 28</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Rin 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 31</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 和 Sakura 好感均 +1</li>
+<li>老虎道场 29</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 30</li>
+<li>无变化</li>
+</ol>
+
+
+<p>真是纠结的一天啊！</p>
+
+<h3>第 10 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Sakura 好感 +1</li>
+<li>无变化</li>
+<li>Sakura 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 32</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 33</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>Rin 好感 +1</li>
+<li>Illya 好感 +1</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 11 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>Sakura 好感 +1</li>
+<li>Sakura 好感 +1</li>
+</ol>
+
+
+<h3>第 12 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>最终进入老虎道场 35</li>
+</ol>
+
+
+<h3>第 13 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 34</li>
+</ol>
+
+
+<p>此时如果 Sakura 好感 ≤10，则进入老虎道场 35。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 35</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 14 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>Illya 好感 +1</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 15 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>老虎道场 36</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 37</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>无变化</li>
+<li>无变化</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 38</li>
+<li>老虎道场 38</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 38</li>
+<li>老虎道场 38</li>
+<li>无变化</li>
+</ol>
+
+
+<h3>第 16 日</h3>
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 39</li>
+<li>Shirō 达到极限</li>
+<li>无变化</li>
+</ol>
+
+
+<p>选择。</p>
+
+<ol>
+<li>老虎道场 40</li>
+<li>无变化</li>
+</ol>
+
+
+<p>此时如果 Shirō 达到极限，或 Illya 好感 ≤3，则出现结局“樱之梦”（并不算 Heaven&rsquo;s Feel 路线通关）。</p>
+
+<p>此时如果已出现过结局“春之归来”，才会出现下面的选择，否则 Heaven&rsquo;s Feel 路线通关，出现结局“春之归来”。</p>
+
+<p>选择。</p>
+
+<ol>
+<li>出现结局“樱之梦”（并不算 Heaven&rsquo;s Feel 路线通关）</li>
+<li>Heaven&rsquo;s Feel 路线通关，出现结局“春之归来”</li>
+</ol>
+
+
+<h2>Last Episode 路线（Saber 最终路线）</h2>
+
+<p>在 Fate 路线、Unlimited Blade Works 路线和 Heaven&rsquo;s Feel 路线通关后，出现此路线，结局为“梦之终点”。</p>
+
+<p><strong>水竹叶原创，谢绝任何形式的转载。</strong></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/07/21/guardian/">守护</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-07-21T03:04:00-04:00" pubdate data-updated="true">Jul 21<span>st</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>看完了 <em>Fate/stay night</em> 的 Fate 线，已是深夜，去躺床上。一闭上眼睛，眼前就是少女躺在树林里面，面带微笑死去的情景，然后胸口就是不禁一阵痛。睁开眼睛来，视线一片模糊，什么东西从眸子里面滚落出来，沿着两颊滑落下去，留下两道凉飕飕的轨迹。于是，再也不能控制自己……</p>
+
+<p>悲剧，并不是在结局突发的悲惨的事情。那种没来由的惨祸，并不能给人留下深刻的印象。所谓悲剧，其实是一开始就注定了的，是在开头就打下了伏笔的。有果必有因。虽然很早就知道，不管能不能赢得圣杯战争，阿尔托莉雅都是会死的。因为，她根本就不属于这个时代，她终究要回到古代，归还佩剑 Excalibur，在一个安静的树林里面，不为人知的死去，完成亚瑟王的宿命。可是，哪怕希望非常的渺茫，我仍然希冀着，能够让阿尔托莉雅留在现世，过一个没有战乱的，本应属于她那样刚成年的少女的，幸福的第二生。为了那美丽的面庞，为了那奉献了一生却没有得到丝毫回报和理解的纯洁的心，任何的努力都是值得的。</p>
+
+<p>我们都是幸运儿，安稳的活在这个世上，虽也有痛苦，但终究是快乐和平和常伴。可你知道吗？又有多少的生命，从出生开始，就注定承受着痛苦，在痛苦中匆匆的告别这个世界。在他们的印象中，这个世界又是怎样的呢？跟地狱难道有任何的区别吗？</p>
+
+<p>这个世界不公平。</p>
+
+<p>而每个人又只能活一次。</p>
+
+<p>我突然发觉，我一直引以为傲的东西，其实根本就是不值一提的。轻松考上名牌大学，轻松拿着全额奖学金去美国名校留学，这都是为了我自己，我根本就没有为别人做出过什么。那么，跟我不存在这个社会上有什么区别呢？</p>
+
+<p>原来，前二十几年，我一直可耻的自私的活着。让父母做所有的事情，不把别人的困难放在心上，对朋友言不由衷，喜欢一个女生却玩着暧昧不愿意负责。</p>
+
+<p>我就是行尸走肉，只是为了追求个人成功，机械的完成学习和工作任务。</p>
+
+<p>我的内心，根本就没有一个，我愿意守护的东西。</p>
+
+<p>我想到了我逐渐老去的父母。我想到，父母会陪伴我几十年，然后在某个瞬间，突然离开我。从此，世界上就不再会有这两个人了。</p>
+
+<p>如果不趁着父母还在，多做点什么，多跟父母相处一下，那么以后，只怕连思念的资本都不会有。</p>
+
+<p>桜自愿去士郎家帮忙，每天早起去他家准备早饭，晚上放学后准备晚饭，然后才回自己的家。因为，她看到士郎是个孤儿。</p>
+
+<p>我不禁想到，我就读的美国学校的一对教授老夫妇，经常对我问寒问暖，给些生活用品我。这都起于，有一次碰巧与老夫妇一起进餐，老妇人坐在我的旁边，问我在美国有没有亲戚朋友。我说没有。老妇人抓着我的手，说，我能感觉到你的孤独，我，不希望你觉得孤独。那一瞬间，我的内心触动了……从此以后，他们就经常主动给我各种帮助。</p>
+
+<p>若我一直留在中国，我可能会不相信故事中，桜长年累月自愿付出照顾士郎的情节。可我现在绝对相信，在健康的社会里面，人们不会对周围人的困难和苦楚视而不见的。</p>
+
+<p>我们都错了，我们不能这样，只顾着自己学习、工作、挣钱，把别人的不幸归因于社会。</p>
+
+<p>眼前，又浮现出阿尔托莉雅嘴角含着微笑死去的图景。亚瑟王征战一生，为了守护自己的子民，放弃了自己的感情。得不到下属的理解，最后还被自己的人叛乱杀害，自己的国家再次陷入混乱。即便这样，阿尔托莉雅还是觉得这是自己的错误，她希望得到圣杯，凭借圣杯的力量，让自己回到最初，让出王位，让一个更合适的人来当国王。这一切，都是为了让自己的国家能够安定。知道圣杯是骗局之后，她毫不犹豫的击碎圣杯，回到古代，接受自己悲惨的命运。</p>
+
+<p>即使，士郎爱她。</p>
+
+<p>即使，她也爱士郎。</p>
+
+<p>每个人都应该选择一些自己要守护的东西。能够守护好自己的家庭，是一个尽责的人。能够守护好自己的亲友，是一个无私的值得信赖的人。而亚瑟王阿尔托莉雅能够守护好一个国家，即使一直含冤也不后悔。</p>
+
+<p>她是英雄。</p>
+
+<p>就这样一直躺着，天蒙蒙亮了。</p>
+
+<p><strong>从现在开始，我不再是一个只为自己活着的人。我，守护。我们，同在。</strong></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/02/13/good-way-to-learn-english/">如何学好英语——留美博士生的英语学习秘法</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-02-13T02:06:00-05:00" pubdate data-updated="true">Feb 13<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>前年考完托福的时候，写了一篇如何学好英语的文章，很零散，这里再重新整理凑一篇文章。</p>
+
+<p>从小在英语上面就没花过什么功夫，没有专门背过单词，除了学校的英语课没有在外面补习过英语。结果相反英语还一直是为我争气的一门课，中学靠英语压人，大学靠英语压人，直到大四参加托福考试一次就高分，申请去美国留学，接受美国教授的电话面试，直到现在人都在美国了。许多年过来，没花什么功夫，却也没遇到过麻烦。</p>
+
+<p>我知道这样的言论会引来许多人的拳头。仔细一想，其实是花了很多功夫的，只不过这些功夫从来都不是高强度的训练，而是日常点点滴滴的积累。</p>
+
+<p>所以说，要想学好英语，首先要有这个意识，一种<strong>学英语的意识</strong>。</p>
+
+<p>小时候用电脑，那个时候操作系统是 MS-DOS，只有英文的，后来换了 Windows，也用英文的，一路过来，这几年读到的英文，其实也不少了。英语老师经常会说，要创造英语环境。把电脑上的系统、软件什么都换成英文的，这不就是英语环境吗？</p>
+
+<p>除了把软件换成英文的，还可以把浏览器的语言换成英文的，这样在上国际网站的时候，出来的就是英文界面。有同学会问，我好像没有什么上国际网站的需求啊。<strong>没有需求创造需求</strong>，这就是<strong>学英语的意识</strong>。</p>
+
+<p>譬如说，我们经常会用互联网查资料。如果你用百度搜索中文，出来的前两个多半是百度百科和互动百科。你为什么不试试用英文 Google 搜索英文关键词呢？出来的第一个一定是英文维基百科。看英文资料的好处不光是学英文，对查资料这个任务本身也有莫大的好处，因为一般来说维基百科会比百度百科质量好，而英文资料会比中文资料准确详实。</p>
+
+<p>我还喜欢泡英文论坛和英文 IRC 频道，跟老外讨论自己感兴趣的计算机问题。这与阅读英文资料有互补作用。资料一般都是正式的语言，而论坛里面的帖子则是非正式的英语，这两种英语还是很不同的。另外，发帖还可以锻炼自己写的能力。</p>
+
+<p>走在路上的时候，会听美国之音。我是从来没有收到过美国之音的广播，都是在官网上下载的——官网上有每一期节目的存档。不需要听很多，听烦了就不要听了，甚至每天听十分钟，积累下来超越别人的时间也是惊人的。<strong>重在积累</strong>，这也是一种<strong>学英语的意识</strong>。</p>
+
+<p>除了听广播，还可以听听所谓的播客（podcast）。这是业余爱好者制作的广播节目，所以主题就特别广了。选择自己感兴趣的节目，例如我就经常听科幻故事。这也能和美国之音形成互补——正式的英语和日常的对话，也是很不同的。</p>
+
+<p>最后，就是说的问题了，这也是中国人最头痛的，因为练的机会最少啊，在国内哪有机会找老外说话呢？别担心，因为我发明了终极无耻的口语练习方法，打国外公司的客服电话！</p>
+
+<p>是的，国外公司多半有一个所谓 toll free 的客服电话，是免费电话，使用 Google Voice、Skype 之类的网络电话能够免费不限时通话。譬如，你可以拨打惠普美国的客服电话。接通后，就开始扯淡，说你想买电脑但是不知道 CPU 是什么东西，内存是什么东西，想方设法扯。不要怕，怕就学不好英语。要想到，对方正在为 21 世纪的人才的成长做贡献呢！</p>
+
+<p>总之，要想学好英语，就要喜欢学习英语，要创造机会，每天不需要学很多，但是每天都要学，重在积累。你一定能想出更多比我这些粗陋的方法更好的方法，坚持下去，相信你一定会在某天突然发现，原来自己的英语也可以这么好！</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/02/02/is-it-important-where-you-are-from/">你来自哪个国家，这事很重要吗？</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-02-02T01:39:00-05:00" pubdate data-updated="true">Feb 2<span>nd</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>是的，就是这间房间了。</p>
+
+<p>通过半掩的门，可以看到里面有几个正在交谈的美国人。</p>
+
+<p>“该你出场了。”内心的声音说。</p>
+
+<p>可是，他们是美国人也，他们会瞧不起我吧，他们会取笑我的蹩脚英语吧，他们会欺负我吧……眼前出现一幕幕电影里洋鬼子欺侮弱小的中国人的场景。</p>
+
+<p>“他们就是你的新同学，是你未来要相处至少五年的同学，快进去吧。”内心的声音又说到。</p>
+
+<p>我鼓起勇气，推开门，迈着怯生生的步伐走了进去。</p>
+
+<p>美国人立马围了过来，热情的招呼我。</p>
+
+<p>他们没有看到我的黄皮肤？</p>
+
+<p>他们没有注意到我的黑头发黑瞳仁？</p>
+
+<p>他们没有看到我矮小的只有一米八的身高？</p>
+
+<p>我看着他们的眼睛。</p>
+
+<p>没有，都没有。在他们眼里，只有热情和真诚；在他们眼里，我就跟美国人一样。</p>
+
+<p>前二十几年一切的疑虑和怨念都在这一瞬间冰释。我露出舒坦的笑容……</p>
+
+<p>把人按种族分类，按国家分类，就像猴子分成猴群一样。但是人类不能像猴群那么愚蠢，人类能够意识到，只有消除种族和地域歧视，才是对人类长远发展有利的。</p>
+
+<p>联想到从小在中国听到的言论，洋鬼子都是资本主义坏蛋，小日本该被灭绝，韩国人都是棒子，印度人都是阿三……这是多么的荒唐。中国人还要分成南方人北方人，还北京人如何如何，上海人如何如何。看人都带桃色眼镜，心胸都如此狭窄？眼界都如此局限？</p>
+
+<p>几天后，系里面又组织了同所有学生和教授的见面会。会上，大家一一介绍自己。不同人的介绍各不相同，有谈自己爱好的，有谈自己研究兴趣的，有谈自己喜爱的食物的，唯独没人说自己是哪个国家的。</p>
+
+<p>我问身边一个美国同学：“你说，为什么自我介绍的时候，不告诉别人自己是哪个国家的呢？”</p>
+
+<p>他头也不转的回答：</p>
+
+<p>你来自哪个国家，这事很重要吗？</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/2/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/">Qaac: The New Preferred Way to Encode AAC</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/">How to Use 64-bit X264 With 32-bit AviSynth</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/">黑客如何给 B 站投稿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/01/10/twisty-destiny-walkthrough/">《雾之本境》完美精确攻略</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/01/09/snow-trap-endings/">《雪之本境EX》和《雪之本境～解境篇～》结局整理</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Jellyflower -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'jellyflower';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

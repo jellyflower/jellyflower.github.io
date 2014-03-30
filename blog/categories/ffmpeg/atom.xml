@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ffmpeg | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/ffmpeg/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Have FFmpeg Output Audio]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/08/have-ffmpeg-output-audio/"/>
+    <updated>2012-03-08T19:05:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/08/have-ffmpeg-output-audio</id>
+    <content type="html"><![CDATA[<p>Of course the most straightforward way is to output PCM wrapped in WAV format. Things will go pretty well with pcm_s16le, pcm_s24le and pcm_s32le, but not with the unsigned, which I don&rsquo;t know why.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Downmixing 5.1 Surround Sound to Stereo]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/08/downmixing-5-dot-1-surround-sound-to-stereo/"/>
+    <updated>2012-03-08T18:53:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/08/downmixing-5-dot-1-surround-sound-to-stereo</id>
+    <content type="html"><![CDATA[<p>By far I think using FFmpeg is still the best way to do it. A command like this will finish the job:</p>
+
+<pre><code>ffmpeg -i INPUT -vn -ac 2 -acodec CODEC OUTPUT
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>

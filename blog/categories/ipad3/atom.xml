@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ipad3 | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/ipad3/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Can I Use the New iPad 3 to Watch Movies and Anime?]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/"/>
+    <updated>2012-03-08T19:21:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime</id>
+    <content type="html"><![CDATA[<iframe frameborder="0" height="200" src="https://docs.google.com/spreadsheet/pub?key=0As1rSZ9BFIoWdFRObTRnVW9WcmI4WmE1dUNEZ1NFVnc&amp;single=true&amp;gid=0&amp;output=html&amp;widget=true" width="800"></iframe>
+
+
+<p>I compared the video standard supported by the new iPad 3 with Blu-ray and pirates. So basically, the rumor that iPad 3 can play Blu-ray is wrong. It supports neither demuxing M2TS nor decoding PCM, Dolby or DTS. For video, you don&rsquo;t want a huge file occupying all the space on your iPad which plays only an hour. So, it looks like we need to do a bit encoding and muxing work. I&rsquo;ll probably do some research on how to massively and automatically prepare movies for iPad 3 and share my way, depending on whether I will spend money on this great toy.</p>
+]]></content>
+  </entry>
+  
+</feed>

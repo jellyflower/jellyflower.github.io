@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Video | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/video/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Fraps Video Too Dark? How to: Decode Fraps Video Correctly]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
+    <updated>2012-08-02T23:59:00-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
+    <content type="html"><![CDATA[<p>The video stream in the multimedia file recorded by Fraps is encoded in Fraps’ own codec. The color space of the video stream can be either YV12 or RGB24. There is an option in Fraps which lets you choose which color space to use.</p>
+
+<p>Currently, many decoders fail to handle Fraps videos in the YV12 color space correctly, resulting in decoded pictures that appear very dark.</p>
+
+<p>In either case, the video stream can be decoded correctly using AviSynth. For YV12, use:</p>
+
+<pre><code>FFIndex(INPUT)
+AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
+ColorYUV(levels="PC-&gt;TV")
+ColorMatrix(mode="rec.709-&gt;rec.601", clamp=0)
+</code></pre>
+
+<p>For RGB24, use:</p>
+
+<pre><code>FFIndex(INPUT)
+AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
+</code></pre>
+
+<p>Don’t use the following script:</p>
+
+<pre><code>AviSource(INPUT)
+</code></pre>
+
+<p>That uses Fraps’ own decoder, which converts YV12 to RGB24. If you later encode the video to YV12, the whole process, YV12 → RGB24 → YV12, causes quality loss. In the above two scripts, there is no unnecessary color space conversion.</p>
+
+<p>It is said that by using the right parameters, both FFmpeg and x264 can decode the video stream correctly. But I haven’t tried yet.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Serious X264 Bug: Everything Becomes Purple-ish!]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/"/>
+    <updated>2012-03-15T22:21:00-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish</id>
+    <content type="html"><![CDATA[<p>Recently a serious x264 bug has been discovered. It makes your video look purple-ish. A comparison <a href="http://tri4.net/subs/notes/44/why-do-you-have-so-many-version-ups">here</a> pretty much proves it.
+This bug has been fixed in the latest version. Technically, all encodes encoded by x264 prior to the fix needs to be re-encoded. But I cannot find any information about the exact version number to which the fix has been applied.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hardsubbing ASS Subtitles in AviSynth]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
+    <updated>2012-03-11T00:27:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
+    <content type="html"><![CDATA[<p>I find that this job can be nicely done by <a href="http://srsfckn.biz/assrender/">assrender</a>, which is based on libass. It even renders karaoke well. Its usage will be like:</p>
+
+<pre><code>LoadCPlugin("assrender.dll")
+assrender("subtitles.ass", hinting=3, fontdir="font")
+</code></pre>
+
+<p>The fontdir option is a directory holding fonts used to render the subtitles, which you don&rsquo;t want to install on your system.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Frame-accurate Decoding and Frameserving of Video Inside AVI]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/"/>
+    <updated>2012-03-11T00:13:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi</id>
+    <content type="html"><![CDATA[<p>Basically, AVI, MKV, MP4 and FLV are handled very well by <a href="http://code.google.com/p/ffmpegsource/">FFmpegSource2</a>. The script can be something like this:</p>
+
+<pre><code>LoadCPlugin("ffms2.dll")
+FFVideoSource("source.mkv")
+</code></pre>
+
+<p>Note that I&rsquo;m using the newer C plugin version.</p>
+
+<p>For M2TS and TS, it seems that by far <a href="http://www.videohelp.com/tools/DGAVCDec">DGAVCDec</a> is the best choice. Use DGAVCIndex to index the source and you will get a DGA index file. Then write a script like this:</p>
+
+<pre><code>LoadPlugin("DGAVCDecode.dll")
+AVCSource("source.dga")
+</code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Experiment With MP 4.1 and CRF 25]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/"/>
+    <updated>2012-03-09T00:46:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25</id>
+    <content type="html"><![CDATA[<p>I accidentally encoded the fifth episode of Gekijouban Kara no Kyoukai using x264. I used the following command:</p>
+
+<pre><code>x264 --profile main --level 4.1 --preset veryslow --tune animation --crf 25 --output output.264 source.avs
+</code></pre>
+
+<p>And this is the comparison of Frame 16416 of the video:</p>
+
+<p><img src="/img/16416.png" alt="Comparison of Frame 16416" /></p>
+
+<p>Of course the quality is very shitty. The image is fuzzy. The grain is gone. The details cannot be seen clearly. But the bit rate is only 303 kbps for a 720p 8-bit H.264 video stream! That may be useful in preparing video for portable devices. I&rsquo;ll experiment more to get the balance between quality and size.</p>
+]]></content>
+  </entry>
+  
+</feed>

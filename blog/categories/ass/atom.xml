@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ass | The Place Where Wishes Come True]]></title>
+  <link href="http://jellyflower.github.io/blog/categories/ass/atom.xml" rel="self"/>
+  <link href="http://jellyflower.github.io/"/>
+  <updated>2014-03-29T21:28:31-04:00</updated>
+  <id>http://jellyflower.github.io/</id>
+  <author>
+    <name><![CDATA[Jellyflower]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hardsubbing ASS Subtitles in AviSynth]]></title>
+    <link href="http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
+    <updated>2012-03-11T00:27:00-05:00</updated>
+    <id>http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
+    <content type="html"><![CDATA[<p>I find that this job can be nicely done by <a href="http://srsfckn.biz/assrender/">assrender</a>, which is based on libass. It even renders karaoke well. Its usage will be like:</p>
+
+<pre><code>LoadCPlugin("assrender.dll")
+assrender("subtitles.ass", hinting=3, fontdir="font")
+</code></pre>
+
+<p>The fontdir option is a directory holding fonts used to render the subtitles, which you don&rsquo;t want to install on your system.</p>
+]]></content>
+  </entry>
+  
+</feed>
