@@ -45,7 +45,8 @@
 $solarized: light;
 
 $signature-color: #a70aeb;
-$title-color: darken($signature-color, 25);
+$support-color: #f5e900;
+$title-color: $signature-color;
 $subtitle-color: lighten($signature-color, 10);
 $link-color: $signature-color;
 $nav-bg: desaturate(lighten($signature-color, 75), 5);
