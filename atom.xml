@@ -4,7 +4,7 @@
   <title><![CDATA[The Place Where Wishes Come True]]></title>
   <link href="http://jellyflower.github.io/atom.xml" rel="self"/>
   <link href="http://jellyflower.github.io/"/>
-  <updated>2014-03-30T23:49:02-04:00</updated>
+  <updated>2014-04-19T12:44:42-04:00</updated>
   <id>http://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How Would You Utilize Your Smartphone if You Were Sent Back to the Middle Ages?]]></title>
+    <link href="http://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages/"/>
+    <updated>2014-04-18T21:54:15-04:00</updated>
+    <id>http://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages</id>
+    <content type="html"><![CDATA[<p><a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27024576"><img class="center" src="http://jellyflower.github.io/img/27024576_m.jpg"></a></p>
+
+<p>In the airing anime <em>No Game No Life</em>, the protagonistic brother and sister were sent to a world set in Medieval period, with their smartphones. After watching the first two episodes, I find it quite fun to think about the question: how should they manage their smartphones’ usage?</p>
+
+<!-- more -->
+
+
+<p>The first thing that comes to my mind is that smartphones are essentially magic in the Middle Ages. If you are caught using a smartphone by Medieval people, you’ll certainly get into trouble. Thus, it is very important that the existence of your smartphone should be kept secret. Also, the smartphone is irreplaceable. You don’t want to lose it.</p>
+
+<p>Then, I think of a big problem: there is no electricity supply. Once the battery died, the phone would be a brick forever. So we need to conserve power as much as possible. I can come up with the following points:</p>
+
+<ul>
+<li>Switch to flight mode, since there is no signal after all</li>
+<li>Adjust screen brightness to minimum, and turn off automatic adjustment</li>
+<li>Turn off background app refresh</li>
+<li>Don&rsquo;t play games or listen to music! Not even once!</li>
+</ul>
+
+
+<p>Now, let’s think about what advantages can the smartphone bring us in the Middle Ages:</p>
+
+<ul>
+<li>Calculator, which solves practically unsolvable arithmetic problems in the Middle Ages, easily and correctly. Through that, you gained the trust from the king.</li>
+<li>Camera, which records information accurately. The princess, who was a cute girl, let you read a secret tome in her room, but only once and didn’t allow you to take notes. People would assume you could only acquire very limited knowledge from the tome, but you actually took pictures of several important pages. The princess believed you must be a genius! (Just how ridiculous this plot is!)</li>
+<li>Compass. You led your team out of a death maze and became a hero.</li>
+<li>Voice recorder. Your archenemy, a hypocrite, finally showed his true colors and threatened you when you two were alone. However, it was all recorded and you exposed him in front of the princess. (At this point, we assumed that you could trust the princess enough to tell her the secret of your smartphone&hellip;)</li>
+</ul>
+
+
+<p>Aah, this is so addictive. Am I missing any even more interesting scenarios?</p>
+
+<p>However, as I read the light novel on which the anime was based, it turned out that the siblings had solar chargers. This is so evil! Why haven’t I seen anyone using a solar charger around? Now I’m deprived of fun.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Qaac: The New Preferred Way to Encode AAC]]></title>
@@ -951,18 +991,6 @@ AVCSource("source.dga")
 <p><img src="http://jellyflower.github.io/img/16416.png" alt="Comparison of Frame 16416" /></p>
 
 <p>Of course the quality is very shitty. The image is fuzzy. The grain is gone. The details cannot be seen clearly. But the bit rate is only 303 kbps for a 720p 8-bit H.264 video stream! That may be useful in preparing video for portable devices. I&rsquo;ll experiment more to get the balance between quality and size.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Can I Use the New iPad 3 to Watch Movies and Anime?]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/"/>
-    <updated>2012-03-08T19:21:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime</id>
-    <content type="html"><![CDATA[<iframe frameborder="0" height="200" src="https://docs.google.com/spreadsheet/pub?key=0As1rSZ9BFIoWdFRObTRnVW9WcmI4WmE1dUNEZ1NFVnc&amp;single=true&amp;gid=0&amp;output=html&amp;widget=true" width="800"></iframe>
-
-
-<p>I compared the video standard supported by the new iPad 3 with Blu-ray and pirates. So basically, the rumor that iPad 3 can play Blu-ray is wrong. It supports neither demuxing M2TS nor decoding PCM, Dolby or DTS. For video, you don&rsquo;t want a huge file occupying all the space on your iPad which plays only an hour. So, it looks like we need to do a bit encoding and muxing work. I&rsquo;ll probably do some research on how to massively and automatically prepare movies for iPad 3 and share my way, depending on whether I will spend money on this great toy.</p>
 ]]></content>
   </entry>
   
