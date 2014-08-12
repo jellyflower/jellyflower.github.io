@@ -1,161 +1,189 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2011/02/02/is-it-important-where-you-are-from/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2011/02/13/good-way-to-learn-english/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2011/07/21/guardian/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2011/07/31/fate-slash-stay-night-walkthrough/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2012/01/25/why-was-kotomi-named-kotomi/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/03/08/downmixing-5-dot-1-surround-sound-to-stereo/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2012/03/08/have-ffmpeg-output-audio/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2012/03/17/almost-done/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2012/04/14/moon-princess/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2012/07/22/versions-of-lullaby/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2013/01/08/snow-trap-walkthrough/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2013/01/09/snow-trap-endings/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/2013/01/10/twisty-destiny-walkthrough/</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/
-        </loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages/
-        </loc>
-        <lastmod>2014-04-19T12:42:51-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/blog/archives/</loc>
-        <lastmod>2014-04-19T12:42:51-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/</loc>
-        <lastmod>2014-04-19T12:42:51-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://jellyflower.github.io/robots.txt</loc>
-        <lastmod>2014-03-29T14:44:20-04:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages/</loc>
+    <lastmod>2014-04-18T21:54:15-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/</loc>
+    <lastmod>2013-06-18T23:13:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/</loc>
+    <lastmod>2013-03-09T18:40:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/</loc>
+    <lastmod>2013-02-12T00:03:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2013/01/10/twisty-destiny-walkthrough/</loc>
+    <lastmod>2013-01-10T21:51:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2013/01/09/snow-trap-endings/</loc>
+    <lastmod>2013-01-09T21:18:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2013/01/08/snow-trap-walkthrough/</loc>
+    <lastmod>2013-01-08T17:19:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client/</loc>
+    <lastmod>2012-11-10T16:53:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw/</loc>
+    <lastmod>2012-09-01T17:36:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64/</loc>
+    <lastmod>2012-09-01T16:53:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/</loc>
+    <lastmod>2012-08-02T23:59:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/07/22/versions-of-lullaby/</loc>
+    <lastmod>2012-07-22T22:56:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/04/14/moon-princess/</loc>
+    <lastmod>2012-04-14T17:22:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype/</loc>
+    <lastmod>2012-04-04T22:41:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac/</loc>
+    <lastmod>2012-03-31T19:42:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/17/almost-done/</loc>
+    <lastmod>2012-03-17T21:37:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/</loc>
+    <lastmod>2012-03-15T22:21:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/</loc>
+    <lastmod>2012-03-11T00:27:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/</loc>
+    <lastmod>2012-03-11T00:13:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/</loc>
+    <lastmod>2012-03-09T00:46:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/</loc>
+    <lastmod>2012-03-08T19:21:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/08/have-ffmpeg-output-audio/</loc>
+    <lastmod>2012-03-08T19:05:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/03/08/downmixing-5-dot-1-surround-sound-to-stereo/</loc>
+    <lastmod>2012-03-08T18:53:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2012/01/25/why-was-kotomi-named-kotomi/</loc>
+    <lastmod>2012-01-25T08:43:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2011/07/31/fate-slash-stay-night-walkthrough/</loc>
+    <lastmod>2011-07-31T16:11:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2011/07/21/guardian/</loc>
+    <lastmod>2011-07-21T03:04:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2011/02/13/good-way-to-learn-english/</loc>
+    <lastmod>2011-02-13T02:06:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/2011/02/02/is-it-important-where-you-are-from/</loc>
+    <lastmod>2011-02-02T01:39:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://jellyflower.github.io/blog/archives/</loc>
+    <lastmod>2014-08-11T22:34:50-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://jellyflower.github.io/</loc>
+    <lastmod>2014-08-11T22:34:50-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
 </urlset>

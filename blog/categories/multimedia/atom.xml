@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Multimedia | The Place Where Wishes Come True]]></title>
   <link href="http://jellyflower.github.io/blog/categories/multimedia/atom.xml" rel="self"/>
   <link href="http://jellyflower.github.io/"/>
-  <updated>2014-04-19T12:44:42-04:00</updated>
+  <updated>2014-08-11T22:34:50-04:00</updated>
   <id>http://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
@@ -75,7 +75,7 @@
 <!-- more -->
 
 
-<p>Surround your pullquote like this {" text to be quoted "}</p>
+<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
 
 <p>其实你被我骗了，上面这条只是最重要的一条。其他还要注意，容器格式只能是 FLV，其中包含 AVC 编码的视频流和 AAC 编码的音频流。AVC 和 AAC 编码有很多 profiles 啊什么的，我没有具体测试支持哪些。</p>
 
@@ -92,7 +92,7 @@
 x264 INPUT -o video.mkv --pass 2 --bitrate 800
 </code></pre>
 
-<p>Surround your pullquote like this {" text to be quoted "}</p>
+<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
 
 <p>音频部分要先抽出原视频的音频：</p>
 
