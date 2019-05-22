@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Skype | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/skype/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/skype/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Official Direct Download Links of Skype]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype/"/>
+    <link href="https://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype/"/>
     <updated>2012-04-04T22:41:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype</id>
+    <id>https://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype</id>
     <content type="html"><![CDATA[<p>These are download links of Skype I discovered. They will always be the latest version and multilingual. These are especially useful for Chinese netizens, because the official site will always redirect them to the so-called Chinese official site, where a specially made &ldquo;Chinese Skype&rdquo; will be served, which has long been rumored to eavesdrop its users.</p>
 
 <ul>

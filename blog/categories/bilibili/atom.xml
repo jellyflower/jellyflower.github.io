@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Bilibili | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/bilibili/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/bilibili/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[黑客如何给 B 站投稿]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/"/>
+    <link href="https://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/"/>
     <updated>2013-02-12T00:03:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili</id>
+    <id>https://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili</id>
     <content type="html"><![CDATA[<p>今天一时兴起给哔哩哔哩投稿，研究了一下发现还真有些门道。这里把我的研究成果发出来，起到抛玉引砖的作用。（是的我的方法是最好的，你的方法只能是砖。）</p>
 
 <p>众所周知，哔哩哔哩并没有自己的服务器，其视频全部是盗链其他的视频站。按目前的状况，用新浪视频是最好的选择。</p>
@@ -31,7 +31,7 @@
 <!-- more -->
 
 
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 
 <p>其实你被我骗了，上面这条只是最重要的一条。其他还要注意，容器格式只能是 FLV，其中包含 AVC 编码的视频流和 AAC 编码的音频流。AVC 和 AAC 编码有很多 profiles 啊什么的，我没有具体测试支持哪些。</p>
 
@@ -48,7 +48,7 @@
 x264 INPUT -o video.mkv --pass 2 --bitrate 800
 </code></pre>
 
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 
 <p>音频部分要先抽出原视频的音频：</p>
 

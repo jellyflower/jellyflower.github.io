@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Aac | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/aac/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/aac/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Qaac: The New Preferred Way to Encode AAC]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/"/>
+    <link href="https://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/"/>
     <updated>2013-06-18T23:13:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac</id>
+    <id>https://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac</id>
     <content type="html"><![CDATA[<p>It has long been widely believed that <a href="http://www.nero.com/enu/company/about-nero/nero-aac-codec.php">Nero AAC Codec</a> generally produces AAC of the best quality. However, recently several studies indicate that Apple encoder already surpasses Nero AAC Codec in terms of quality.</p>
 
 <p>The actual encoding code is shipped with Apple Application Support as a form of a library. Apple doesn’t provide a more convenient way to invoke the encoder than using iTunes. Fortunately, there is an open source project called <a href="https://sites.google.com/site/qaacpage/">qaac</a> fulfilling that role.</p>

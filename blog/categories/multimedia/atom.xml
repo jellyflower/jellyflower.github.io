@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Multimedia | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/multimedia/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/multimedia/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Use 64-bit X264 With 32-bit AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
     <updated>2013-03-09T18:40:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
     <content type="html"><![CDATA[<p>For some reason I had to use AviSynth 2.6, of which I could’t seem to find a 64-bit build. But I did’t want to use 32-bit x264, because the 64-bit version had much better performance on 64-bit machines.</p>
 
 <p>After some research, I found avs2pipemod. avs2pipemod is a program that pipes the output of AviSynth to other programs, with which we are able to connect 64-bit x264 and 32-bit AviSynth.</p>
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[黑客如何给 B 站投稿]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/"/>
+    <link href="https://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/"/>
     <updated>2013-02-12T00:03:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili</id>
+    <id>https://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili</id>
     <content type="html"><![CDATA[<p>今天一时兴起给哔哩哔哩投稿，研究了一下发现还真有些门道。这里把我的研究成果发出来，起到抛玉引砖的作用。（是的我的方法是最好的，你的方法只能是砖。）</p>
 
 <p>众所周知，哔哩哔哩并没有自己的服务器，其视频全部是盗链其他的视频站。按目前的状况，用新浪视频是最好的选择。</p>
@@ -75,7 +75,7 @@
 <!-- more -->
 
 
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 
 <p>其实你被我骗了，上面这条只是最重要的一条。其他还要注意，容器格式只能是 FLV，其中包含 AVC 编码的视频流和 AAC 编码的音频流。AVC 和 AAC 编码有很多 profiles 啊什么的，我没有具体测试支持哪些。</p>
 
@@ -92,7 +92,7 @@
 x264 INPUT -o video.mkv --pass 2 --bitrate 800
 </code></pre>
 
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 
 <p>音频部分要先抽出原视频的音频：</p>
 
@@ -115,9 +115,9 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
   
   <entry>
     <title type="html"><![CDATA[Almost Done]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/17/almost-done/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/17/almost-done/"/>
     <updated>2012-03-17T21:37:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/17/almost-done</id>
+    <id>https://jellyflower.github.io/blog/2012/03/17/almost-done</id>
     <content type="html"><![CDATA[<p>Recently I&rsquo;ve been working on my program which is capable of automatically preparing movies and anime for the new iPad. I tried feeding Madoka&rsquo;s opening to my program and got a somewhat nice result. You can see that my program is able to render subtitles in ASS format using custom fonts, thanks to libass.</p>
 
 <p><img src="/img/madoka-render.png" alt="Mahou Shoujo Madoka Magica" /></p>
@@ -126,9 +126,9 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
   
   <entry>
     <title type="html"><![CDATA[Can I Use the New iPad 3 to Watch Movies and Anime?]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/"/>
     <updated>2012-03-08T19:21:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime</id>
+    <id>https://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime</id>
     <content type="html"><![CDATA[<iframe frameborder="0" height="200" src="https://docs.google.com/spreadsheet/pub?key=0As1rSZ9BFIoWdFRObTRnVW9WcmI4WmE1dUNEZ1NFVnc&amp;single=true&amp;gid=0&amp;output=html&amp;widget=true" width="800"></iframe>
 
 

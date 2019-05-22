@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Mingw | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/mingw/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/mingw/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Build Boost C++ Libraries on Windows Using MinGW]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw/"/>
+    <link href="https://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw/"/>
     <updated>2012-09-01T17:36:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw</id>
+    <id>https://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw</id>
     <content type="html"><![CDATA[<p>First, download the source code <a href="http://www.boost.org/users/download/">here</a>. Also download <a href="http://zlib.net/">zlib</a> and <a href="http://www.bzip.org/">bzip2</a>. Extract them to separate directories and open a command prompt in the directory of Boost. Run</p>
 
 <pre><code>bootstrap gcc

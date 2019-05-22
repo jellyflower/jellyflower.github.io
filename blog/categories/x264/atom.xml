@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: X264 | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/x264/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/x264/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Use 64-bit X264 With 32-bit AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
     <updated>2013-03-09T18:40:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
     <content type="html"><![CDATA[<p>For some reason I had to use AviSynth 2.6, of which I could’t seem to find a 64-bit build. But I did’t want to use 32-bit x264, because the 64-bit version had much better performance on 64-bit machines.</p>
 
 <p>After some research, I found avs2pipemod. avs2pipemod is a program that pipes the output of AviSynth to other programs, with which we are able to connect 64-bit x264 and 32-bit AviSynth.</p>
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[Serious X264 Bug: Everything Becomes Purple-ish!]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/"/>
     <updated>2012-03-15T22:21:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish</id>
+    <id>https://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish</id>
     <content type="html"><![CDATA[<p>Recently a serious x264 bug has been discovered. It makes your video look purple-ish. A comparison <a href="http://tri4.net/subs/notes/44/why-do-you-have-so-many-version-ups">here</a> pretty much proves it.
 This bug has been fixed in the latest version. Technically, all encodes encoded by x264 prior to the fix needs to be re-encoded. But I cannot find any information about the exact version number to which the fix has been applied.</p>
 ]]></content>
@@ -69,9 +69,9 @@ This bug has been fixed in the latest version. Technically, all encodes encoded 
   
   <entry>
     <title type="html"><![CDATA[Experiment With MP 4.1 and CRF 25]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/"/>
     <updated>2012-03-09T00:46:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25</id>
+    <id>https://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25</id>
     <content type="html"><![CDATA[<p>I accidentally encoded the fifth episode of Gekijouban Kara no Kyoukai using x264. I used the following command:</p>
 
 <pre><code>x264 --profile main --level 4.1 --preset veryslow --tune animation --crf 25 --output output.264 source.avs

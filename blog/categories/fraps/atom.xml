@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Fraps | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/fraps/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/fraps/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fraps Video Too Dark? How to: Decode Fraps Video Correctly]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
+    <link href="https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
     <updated>2012-08-02T23:59:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
+    <id>https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
     <content type="html"><![CDATA[<p>The video stream in the multimedia file recorded by Fraps is encoded in Fraps’ own codec. The color space of the video stream can be either YV12 or RGB24. There is an option in Fraps which lets you choose which color space to use.</p>
 
 <p>Currently, many decoders fail to handle Fraps videos in the YV12 color space correctly, resulting in decoded pictures that appear very dark.</p>

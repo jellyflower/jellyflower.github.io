@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Video | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/video/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/video/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fraps Video Too Dark? How to: Decode Fraps Video Correctly]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
+    <link href="https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
     <updated>2012-08-02T23:59:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
+    <id>https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
     <content type="html"><![CDATA[<p>The video stream in the multimedia file recorded by Fraps is encoded in Fraps’ own codec. The color space of the video stream can be either YV12 or RGB24. There is an option in Fraps which lets you choose which color space to use.</p>
 
 <p>Currently, many decoders fail to handle Fraps videos in the YV12 color space correctly, resulting in decoded pictures that appear very dark.</p>
@@ -49,9 +49,9 @@ AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
   
   <entry>
     <title type="html"><![CDATA[Serious X264 Bug: Everything Becomes Purple-ish!]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/"/>
     <updated>2012-03-15T22:21:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish</id>
+    <id>https://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish</id>
     <content type="html"><![CDATA[<p>Recently a serious x264 bug has been discovered. It makes your video look purple-ish. A comparison <a href="http://tri4.net/subs/notes/44/why-do-you-have-so-many-version-ups">here</a> pretty much proves it.
 This bug has been fixed in the latest version. Technically, all encodes encoded by x264 prior to the fix needs to be re-encoded. But I cannot find any information about the exact version number to which the fix has been applied.</p>
 ]]></content>
@@ -59,9 +59,9 @@ This bug has been fixed in the latest version. Technically, all encodes encoded 
   
   <entry>
     <title type="html"><![CDATA[Hardsubbing ASS Subtitles in AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
     <updated>2012-03-11T00:27:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
     <content type="html"><![CDATA[<p>I find that this job can be nicely done by <a href="http://srsfckn.biz/assrender/">assrender</a>, which is based on libass. It even renders karaoke well. Its usage will be like:</p>
 
 <pre><code>LoadCPlugin("assrender.dll")
@@ -74,9 +74,9 @@ assrender("subtitles.ass", hinting=3, fontdir="font")
   
   <entry>
     <title type="html"><![CDATA[Frame-accurate Decoding and Frameserving of Video Inside AVI]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/"/>
     <updated>2012-03-11T00:13:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi</id>
+    <id>https://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi</id>
     <content type="html"><![CDATA[<p>Basically, AVI, MKV, MP4 and FLV are handled very well by <a href="http://code.google.com/p/ffmpegsource/">FFmpegSource2</a>. The script can be something like this:</p>
 
 <pre><code>LoadCPlugin("ffms2.dll")
@@ -95,9 +95,9 @@ AVCSource("source.dga")
   
   <entry>
     <title type="html"><![CDATA[Experiment With MP 4.1 and CRF 25]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/"/>
     <updated>2012-03-09T00:46:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25</id>
+    <id>https://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25</id>
     <content type="html"><![CDATA[<p>I accidentally encoded the fifth episode of Gekijouban Kara no Kyoukai using x264. I used the following command:</p>
 
 <pre><code>x264 --profile main --level 4.1 --preset veryslow --tune animation --crf 25 --output output.264 source.avs

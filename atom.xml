@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[How Would You Utilize Your Smartphone if You Were Sent Back to the Middle Ages?]]></title>
-    <link href="http://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages/"/>
+    <link href="https://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages/"/>
     <updated>2014-04-18T21:54:15-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages</id>
-    <content type="html"><![CDATA[<p><a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27024576"><img class="center" src="http://jellyflower.github.io/img/27024576_m.jpg"></a></p>
+    <id>https://jellyflower.github.io/blog/2014/04/18/how-would-you-utilize-your-smartphone-if-you-were-sent-back-to-the-middle-ages</id>
+    <content type="html"><![CDATA[<p><a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27024576"><img class="center" src="https://jellyflower.github.io/img/27024576_m.jpg"></a></p>
 
 <p>In the airing anime <em>No Game No Life</em>, the protagonistic brother and sister were sent to a world set in Medieval period, with their smartphones. After watching the first two episodes, I find it quite fun to think about the question: how should they manage their smartphones’ usage?</p>
 
@@ -55,9 +55,9 @@
   
   <entry>
     <title type="html"><![CDATA[Qaac: The New Preferred Way to Encode AAC]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/"/>
+    <link href="https://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac/"/>
     <updated>2013-06-18T23:13:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac</id>
+    <id>https://jellyflower.github.io/blog/2013/06/18/qaac-the-new-preferred-way-to-encode-aac</id>
     <content type="html"><![CDATA[<p>It has long been widely believed that <a href="http://www.nero.com/enu/company/about-nero/nero-aac-codec.php">Nero AAC Codec</a> generally produces AAC of the best quality. However, recently several studies indicate that Apple encoder already surpasses Nero AAC Codec in terms of quality.</p>
 
 <p>The actual encoding code is shipped with Apple Application Support as a form of a library. Apple doesn’t provide a more convenient way to invoke the encoder than using iTunes. Fortunately, there is an open source project called <a href="https://sites.google.com/site/qaacpage/">qaac</a> fulfilling that role.</p>
@@ -76,9 +76,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Use 64-bit X264 With 32-bit AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
     <updated>2013-03-09T18:40:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
     <content type="html"><![CDATA[<p>For some reason I had to use AviSynth 2.6, of which I could’t seem to find a 64-bit build. But I did’t want to use 32-bit x264, because the 64-bit version had much better performance on 64-bit machines.</p>
 
 <p>After some research, I found avs2pipemod. avs2pipemod is a program that pipes the output of AviSynth to other programs, with which we are able to connect 64-bit x264 and 32-bit AviSynth.</p>
@@ -120,9 +120,9 @@
   
   <entry>
     <title type="html"><![CDATA[黑客如何给 B 站投稿]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/"/>
+    <link href="https://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili/"/>
     <updated>2013-02-12T00:03:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili</id>
+    <id>https://jellyflower.github.io/blog/2013/02/12/the-way-a-hacker-submits-video-to-bilibili</id>
     <content type="html"><![CDATA[<p>今天一时兴起给哔哩哔哩投稿，研究了一下发现还真有些门道。这里把我的研究成果发出来，起到抛玉引砖的作用。（是的我的方法是最好的，你的方法只能是砖。）</p>
 
 <p>众所周知，哔哩哔哩并没有自己的服务器，其视频全部是盗链其他的视频站。按目前的状况，用新浪视频是最好的选择。</p>
@@ -180,12 +180,12 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
   
   <entry>
     <title type="html"><![CDATA[《雾之本境》完美精确攻略]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/01/10/twisty-destiny-walkthrough/"/>
+    <link href="https://jellyflower.github.io/blog/2013/01/10/twisty-destiny-walkthrough/"/>
     <updated>2013-01-10T21:51:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/01/10/twisty-destiny-walkthrough</id>
+    <id>https://jellyflower.github.io/blog/2013/01/10/twisty-destiny-walkthrough</id>
     <content type="html"><![CDATA[<p><strong>本攻略由水竹叶独立整理和编写。</strong></p>
 
-<p><img src="http://jellyflower.github.io/img/cgyyq11.jpg" alt="" /></p>
+<p><img src="https://jellyflower.github.io/img/cgyyq11.jpg" alt="" /></p>
 
 <p>总的来说，先推扬雨晴和祁连遥才能推苒雪忆。童玲推不了，汪星涵救不了。</p>
 
@@ -317,10 +317,10 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
   
   <entry>
     <title type="html"><![CDATA[《雪之本境EX》和《雪之本境～解境篇～》结局整理]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/01/09/snow-trap-endings/"/>
+    <link href="https://jellyflower.github.io/blog/2013/01/09/snow-trap-endings/"/>
     <updated>2013-01-09T21:18:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/01/09/snow-trap-endings</id>
-    <content type="html"><![CDATA[<p><img src="http://jellyflower.github.io/img/tx_cg_th.jpg" alt="" /></p>
+    <id>https://jellyflower.github.io/blog/2013/01/09/snow-trap-endings</id>
+    <content type="html"><![CDATA[<p><img src="https://jellyflower.github.io/img/tx_cg_th.jpg" alt="" /></p>
 
 <p>发现很多人对各结局的具体情况存有疑问，希望搞清楚，所以这里整理一下。</p>
 
@@ -333,9 +333,9 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
   
   <entry>
     <title type="html"><![CDATA[《雪之本境EX》和《雪之本境～解境篇～》完美精确攻略]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/01/08/snow-trap-walkthrough/"/>
+    <link href="https://jellyflower.github.io/blog/2013/01/08/snow-trap-walkthrough/"/>
     <updated>2013-01-08T17:19:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/01/08/snow-trap-walkthrough</id>
+    <id>https://jellyflower.github.io/blog/2013/01/08/snow-trap-walkthrough</id>
     <content type="html"><![CDATA[<p><strong>本攻略由水竹叶独立整理和编写。</strong></p>
 
 <p>To international readers:</p>
@@ -344,7 +344,7 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
 
 <p>本文是这两个游戏的攻略，列出了所有选项的作用和所有结局的达成条件。</p>
 
-<p><img src="http://jellyflower.github.io/img/ghf_cg_th.jpg" alt="" /></p>
+<p><img src="https://jellyflower.github.io/img/ghf_cg_th.jpg" alt="" /></p>
 
 <!-- more -->
 
@@ -477,7 +477,7 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
 
 <p>进入<strong>结局：本境之雪</strong>会开启<strong>雪境旅店</strong>。</p>
 
-<p><img src="http://jellyflower.github.io/img/byy_cg_th.jpg" alt="" /></p>
+<p><img src="https://jellyflower.github.io/img/byy_cg_th.jpg" alt="" /></p>
 
 <h2><a id="revenge"></a>雪之本境～解境篇～</h2>
 
@@ -706,9 +706,9 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
   
   <entry>
     <title type="html"><![CDATA[How to Turn Off μTorrent Ads (or Switch to a Better BitTorrent Client)]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client/"/>
+    <link href="https://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client/"/>
     <updated>2012-11-10T16:53:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client</id>
+    <id>https://jellyflower.github.io/blog/2012/11/10/how-to-turn-off-utorrent-ads-or-switch-to-a-better-bittorrent-client</id>
     <content type="html"><![CDATA[<p>The latest release of μTorrent features in-client ads (<a href="http://thenextweb.com/insider/2012/11/09/utorrent-3-22-released-officially-supports-windows-8-and-now-displays-ads-in-client/">here</a>). The once concise and no-nonsense BitTorrent client is now taking a path to bloatware.</p>
 
 <p>To turn off the ads, go to Preferences, and then Advanced, and set the following variables to false:</p>
@@ -727,9 +727,9 @@ x264 INPUT -o video.mkv --pass 2 --bitrate 800
   
   <entry>
     <title type="html"><![CDATA[Build Boost C++ Libraries on Windows Using MinGW]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw/"/>
+    <link href="https://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw/"/>
     <updated>2012-09-01T17:36:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw</id>
+    <id>https://jellyflower.github.io/blog/2012/09/01/build-boost-c-plus-plus-libraries-on-windows-using-mingw</id>
     <content type="html"><![CDATA[<p>First, download the source code <a href="http://www.boost.org/users/download/">here</a>. Also download <a href="http://zlib.net/">zlib</a> and <a href="http://www.bzip.org/">bzip2</a>. Extract them to separate directories and open a command prompt in the directory of Boost. Run</p>
 
 <pre><code>bootstrap gcc
@@ -742,18 +742,18 @@ b2 -s ZLIB_SOURCE=ZLIB_SOURCE -s BZIP2_SOURCE=BZIP2_SOURCE variant=debug,release
   
   <entry>
     <title type="html"><![CDATA[Newer Versions of GCC for Windows: MinGW-w64]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64/"/>
+    <link href="https://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64/"/>
     <updated>2012-09-01T16:53:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64</id>
+    <id>https://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64</id>
     <content type="html"><![CDATA[<p>I’m very interested in the latest features of C++11 so I want to get the latest version of GCC for Windows. It looks like at the moment the <a href="http://mingw-w64.sourceforge.net/">MinGW-w64</a> project best fits my need. Check the builds <a href="http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/rubenvb/gcc-4.7-release/">here</a> if you target 64-bit Windows and <a href="http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/rubenvb/gcc-4.7-release/">here</a> for 32-bit. Note that there are cross compilers available which can run on Cygwin or Linux.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Fraps Video Too Dark? How to: Decode Fraps Video Correctly]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
+    <link href="https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
     <updated>2012-08-02T23:59:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
+    <id>https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
     <content type="html"><![CDATA[<p>The video stream in the multimedia file recorded by Fraps is encoded in Fraps’ own codec. The color space of the video stream can be either YV12 or RGB24. There is an option in Fraps which lets you choose which color space to use.</p>
 
 <p>Currently, many decoders fail to handle Fraps videos in the YV12 color space correctly, resulting in decoded pictures that appear very dark.</p>
@@ -785,9 +785,9 @@ AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
   
   <entry>
     <title type="html"><![CDATA[月海的子守歌的几个版本]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/07/22/versions-of-lullaby/"/>
+    <link href="https://jellyflower.github.io/blog/2012/07/22/versions-of-lullaby/"/>
     <updated>2012-07-22T22:56:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/07/22/versions-of-lullaby</id>
+    <id>https://jellyflower.github.io/blog/2012/07/22/versions-of-lullaby</id>
     <content type="html"><![CDATA[<h1>日语原版</h1>
 
 <blockquote><p>长弓背负いし 月の精<br/>
@@ -871,10 +871,10 @@ AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
   
   <entry>
     <title type="html"><![CDATA[Moon Princess]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/04/14/moon-princess/"/>
+    <link href="https://jellyflower.github.io/blog/2012/04/14/moon-princess/"/>
     <updated>2012-04-14T17:22:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/04/14/moon-princess</id>
-    <content type="html"><![CDATA[<p><img src="http://jellyflower.github.io/img/moon-princess.jpg" alt="Moon Princess" /></p>
+    <id>https://jellyflower.github.io/blog/2012/04/14/moon-princess</id>
+    <content type="html"><![CDATA[<p><img src="https://jellyflower.github.io/img/moon-princess.jpg" alt="Moon Princess" /></p>
 
 <p>You shouldn&rsquo;t sell your soul to the devil even if you hated the world.</p>
 ]]></content>
@@ -882,9 +882,9 @@ AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
   
   <entry>
     <title type="html"><![CDATA[Official Direct Download Links of Skype]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype/"/>
+    <link href="https://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype/"/>
     <updated>2012-04-04T22:41:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype</id>
+    <id>https://jellyflower.github.io/blog/2012/04/04/official-direct-download-links-of-skype</id>
     <content type="html"><![CDATA[<p>These are download links of Skype I discovered. They will always be the latest version and multilingual. These are especially useful for Chinese netizens, because the official site will always redirect them to the so-called Chinese official site, where a specially made &ldquo;Chinese Skype&rdquo; will be served, which has long been rumored to eavesdrop its users.</p>
 
 <ul>
@@ -899,9 +899,9 @@ AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
   
   <entry>
     <title type="html"><![CDATA[Use MP4Box Without Installing GPAC]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac/"/>
     <updated>2012-03-31T19:42:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac</id>
+    <id>https://jellyflower.github.io/blog/2012/03/31/use-mp4box-without-installing-gpac</id>
     <content type="html"><![CDATA[<p><a href="http://gpac.wp.mines-telecom.fr/mp4box/">MP4Box</a> is an essential tool to manipulate ISO base media file formats, such as MP4, 3GP, etc. Currently it is better than FFmpeg. Later on it is packed in GPAC, a multimedia framework of which the other parts don&rsquo;t appear to be that useful.</p>
 
 <p>To use MP4Box without installing the entire GPAC framework, you can extract relevant files from the installer using a extractor such as 7-Zip:</p>
@@ -921,20 +921,20 @@ AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
   
   <entry>
     <title type="html"><![CDATA[Almost Done]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/17/almost-done/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/17/almost-done/"/>
     <updated>2012-03-17T21:37:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/17/almost-done</id>
+    <id>https://jellyflower.github.io/blog/2012/03/17/almost-done</id>
     <content type="html"><![CDATA[<p>Recently I&rsquo;ve been working on my program which is capable of automatically preparing movies and anime for the new iPad. I tried feeding Madoka&rsquo;s opening to my program and got a somewhat nice result. You can see that my program is able to render subtitles in ASS format using custom fonts, thanks to libass.</p>
 
-<p><img src="http://jellyflower.github.io/img/madoka-render.png" alt="Mahou Shoujo Madoka Magica" /></p>
+<p><img src="https://jellyflower.github.io/img/madoka-render.png" alt="Mahou Shoujo Madoka Magica" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Serious X264 Bug: Everything Becomes Purple-ish!]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish/"/>
     <updated>2012-03-15T22:21:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish</id>
+    <id>https://jellyflower.github.io/blog/2012/03/15/serious-x264-bug-everything-becomes-purple-ish</id>
     <content type="html"><![CDATA[<p>Recently a serious x264 bug has been discovered. It makes your video look purple-ish. A comparison <a href="http://tri4.net/subs/notes/44/why-do-you-have-so-many-version-ups">here</a> pretty much proves it.
 This bug has been fixed in the latest version. Technically, all encodes encoded by x264 prior to the fix needs to be re-encoded. But I cannot find any information about the exact version number to which the fix has been applied.</p>
 ]]></content>
@@ -942,9 +942,9 @@ This bug has been fixed in the latest version. Technically, all encodes encoded 
   
   <entry>
     <title type="html"><![CDATA[Hardsubbing ASS Subtitles in AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
     <updated>2012-03-11T00:27:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
     <content type="html"><![CDATA[<p>I find that this job can be nicely done by <a href="http://srsfckn.biz/assrender/">assrender</a>, which is based on libass. It even renders karaoke well. Its usage will be like:</p>
 
 <pre><code>LoadCPlugin("assrender.dll")
@@ -957,9 +957,9 @@ assrender("subtitles.ass", hinting=3, fontdir="font")
   
   <entry>
     <title type="html"><![CDATA[Frame-accurate Decoding and Frameserving of Video Inside AVI]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/"/>
     <updated>2012-03-11T00:13:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi</id>
+    <id>https://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi</id>
     <content type="html"><![CDATA[<p>Basically, AVI, MKV, MP4 and FLV are handled very well by <a href="http://code.google.com/p/ffmpegsource/">FFmpegSource2</a>. The script can be something like this:</p>
 
 <pre><code>LoadCPlugin("ffms2.dll")
@@ -978,9 +978,9 @@ AVCSource("source.dga")
   
   <entry>
     <title type="html"><![CDATA[Experiment With MP 4.1 and CRF 25]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25/"/>
     <updated>2012-03-09T00:46:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25</id>
+    <id>https://jellyflower.github.io/blog/2012/03/09/experiment-with-mp-4-dot-1-and-crf-25</id>
     <content type="html"><![CDATA[<p>I accidentally encoded the fifth episode of Gekijouban Kara no Kyoukai using x264. I used the following command:</p>
 
 <pre><code>x264 --profile main --level 4.1 --preset veryslow --tune animation --crf 25 --output output.264 source.avs
@@ -988,7 +988,7 @@ AVCSource("source.dga")
 
 <p>And this is the comparison of Frame 16416 of the video:</p>
 
-<p><img src="http://jellyflower.github.io/img/16416.png" alt="Comparison of Frame 16416" /></p>
+<p><img src="https://jellyflower.github.io/img/16416.png" alt="Comparison of Frame 16416" /></p>
 
 <p>Of course the quality is very shitty. The image is fuzzy. The grain is gone. The details cannot be seen clearly. But the bit rate is only 303 kbps for a 720p 8-bit H.264 video stream! That may be useful in preparing video for portable devices. I&rsquo;ll experiment more to get the balance between quality and size.</p>
 ]]></content>

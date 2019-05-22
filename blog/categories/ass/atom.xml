@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Ass | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/ass/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/ass/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hardsubbing ASS Subtitles in AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
     <updated>2012-03-11T00:27:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
     <content type="html"><![CDATA[<p>I find that this job can be nicely done by <a href="http://srsfckn.biz/assrender/">assrender</a>, which is based on libass. It even renders karaoke well. Its usage will be like:</p>
 
 <pre><code>LoadCPlugin("assrender.dll")

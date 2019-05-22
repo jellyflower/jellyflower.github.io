@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Gcc | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/gcc/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/gcc/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Newer Versions of GCC for Windows: MinGW-w64]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64/"/>
+    <link href="https://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64/"/>
     <updated>2012-09-01T16:53:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64</id>
+    <id>https://jellyflower.github.io/blog/2012/09/01/newer-versions-of-gcc-for-windows-mingw-w64</id>
     <content type="html"><![CDATA[<p>I’m very interested in the latest features of C++11 so I want to get the latest version of GCC for Windows. It looks like at the moment the <a href="http://mingw-w64.sourceforge.net/">MinGW-w64</a> project best fits my need. Check the builds <a href="http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/rubenvb/gcc-4.7-release/">here</a> if you target 64-bit Windows and <a href="http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/rubenvb/gcc-4.7-release/">here</a> for 32-bit. Note that there are cross compilers available which can run on Cygwin or Linux.</p>
 ]]></content>
   </entry>

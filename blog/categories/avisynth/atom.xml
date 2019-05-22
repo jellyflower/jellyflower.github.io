@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Avisynth | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/avisynth/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/avisynth/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Use 64-bit X264 With 32-bit AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth/"/>
     <updated>2013-03-09T18:40:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2013/03/09/how-to-use-64-bit-x264-with-32-bit-avisynth</id>
     <content type="html"><![CDATA[<p>For some reason I had to use AviSynth 2.6, of which I could’t seem to find a 64-bit build. But I did’t want to use 32-bit x264, because the 64-bit version had much better performance on 64-bit machines.</p>
 
 <p>After some research, I found avs2pipemod. avs2pipemod is a program that pipes the output of AviSynth to other programs, with which we are able to connect 64-bit x264 and 32-bit AviSynth.</p>
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fraps Video Too Dark? How to: Decode Fraps Video Correctly]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
+    <link href="https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly/"/>
     <updated>2012-08-02T23:59:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
+    <id>https://jellyflower.github.io/blog/2012/08/02/fraps-video-too-dark-how-to-decode-fraps-video-correctly</id>
     <content type="html"><![CDATA[<p>The video stream in the multimedia file recorded by Fraps is encoded in Fraps’ own codec. The color space of the video stream can be either YV12 or RGB24. There is an option in Fraps which lets you choose which color space to use.</p>
 
 <p>Currently, many decoders fail to handle Fraps videos in the YV12 color space correctly, resulting in decoded pictures that appear very dark.</p>
@@ -93,9 +93,9 @@ AudioDub(FFVideoSource(INPUT), FFAudioSource(INPUT))
   
   <entry>
     <title type="html"><![CDATA[Hardsubbing ASS Subtitles in AviSynth]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth/"/>
     <updated>2012-03-11T00:27:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
+    <id>https://jellyflower.github.io/blog/2012/03/11/hardsubbing-ass-subtitles-in-avisynth</id>
     <content type="html"><![CDATA[<p>I find that this job can be nicely done by <a href="http://srsfckn.biz/assrender/">assrender</a>, which is based on libass. It even renders karaoke well. Its usage will be like:</p>
 
 <pre><code>LoadCPlugin("assrender.dll")
@@ -108,9 +108,9 @@ assrender("subtitles.ass", hinting=3, fontdir="font")
   
   <entry>
     <title type="html"><![CDATA[Frame-accurate Decoding and Frameserving of Video Inside AVI]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi/"/>
     <updated>2012-03-11T00:13:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi</id>
+    <id>https://jellyflower.github.io/blog/2012/03/11/frame-accurate-decoding-and-frameserving-of-video-inside-avi</id>
     <content type="html"><![CDATA[<p>Basically, AVI, MKV, MP4 and FLV are handled very well by <a href="http://code.google.com/p/ffmpegsource/">FFmpegSource2</a>. The script can be something like this:</p>
 
 <pre><code>LoadCPlugin("ffms2.dll")

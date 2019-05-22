@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Ipad | The Place Where Wishes Come True]]></title>
-  <link href="http://jellyflower.github.io/blog/categories/ipad/atom.xml" rel="self"/>
-  <link href="http://jellyflower.github.io/"/>
-  <updated>2014-08-14T00:12:03-04:00</updated>
-  <id>http://jellyflower.github.io/</id>
+  <link href="https://jellyflower.github.io/blog/categories/ipad/atom.xml" rel="self"/>
+  <link href="https://jellyflower.github.io/"/>
+  <updated>2019-05-22T14:36:50-04:00</updated>
+  <id>https://jellyflower.github.io/</id>
   <author>
     <name><![CDATA[Jellyflower]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Almost Done]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/17/almost-done/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/17/almost-done/"/>
     <updated>2012-03-17T21:37:00-04:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/17/almost-done</id>
+    <id>https://jellyflower.github.io/blog/2012/03/17/almost-done</id>
     <content type="html"><![CDATA[<p>Recently I&rsquo;ve been working on my program which is capable of automatically preparing movies and anime for the new iPad. I tried feeding Madoka&rsquo;s opening to my program and got a somewhat nice result. You can see that my program is able to render subtitles in ASS format using custom fonts, thanks to libass.</p>
 
 <p><img src="/img/madoka-render.png" alt="Mahou Shoujo Madoka Magica" /></p>
@@ -26,9 +26,9 @@
   
   <entry>
     <title type="html"><![CDATA[Can I Use the New iPad 3 to Watch Movies and Anime?]]></title>
-    <link href="http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/"/>
+    <link href="https://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime/"/>
     <updated>2012-03-08T19:21:00-05:00</updated>
-    <id>http://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime</id>
+    <id>https://jellyflower.github.io/blog/2012/03/08/can-i-use-the-new-ipad-3-to-watch-movies-and-anime</id>
     <content type="html"><![CDATA[<iframe frameborder="0" height="200" src="https://docs.google.com/spreadsheet/pub?key=0As1rSZ9BFIoWdFRObTRnVW9WcmI4WmE1dUNEZ1NFVnc&amp;single=true&amp;gid=0&amp;output=html&amp;widget=true" width="800"></iframe>
 
 
